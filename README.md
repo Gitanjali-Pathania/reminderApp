@@ -1,4 +1,8 @@
-# Infratab Frontend Coding Challenge!
+# Solution to this Coding Challenge
+
+
+
+Infratab Frontend Coding Challenge!
 
 ## Getting started
 1. [Participate](#participate)
